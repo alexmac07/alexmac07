@@ -1,6 +1,6 @@
 ## Howdy 👋 I'm Ale Maceda
 
-I am a Software Developer with experience primarily as a **.NET Backend Developer** and **.NET Fullstack Developer**. Passionate about backend development with C# and the .NET ecosystem.
+I am a Software Developer with experience primarily as a **.NET Backend Developer** and **.NET Fullstack Developer**.
 
 I enjoy designing and implementing scalable solutions, including migrating monolithic architectures to microservices with a serverless vision. I am a **Systems Engineer**, hold a diploma in **Big Data** and a certified **Scrum Master**. 
 I am always looking to apply my knowledge to challenging projects and collaborate with diverse teams from around the world.
